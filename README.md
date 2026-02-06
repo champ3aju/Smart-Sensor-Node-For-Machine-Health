@@ -47,9 +47,8 @@ The system is divided into three main layers: Sensing, Processing (Edge), and Co
 |-----------|-------------|
 | **Microcontroller** | STM32F407VGT6 Discovery Board |
 | **Comms Module** | ESP32 (Wi-Fi & MQTT Bridge) |
-| **Sensors** | Vibration (Piezo/SW-420), Current (ACS712), Temp (LM35/DHT), IR Speed Sensor |
+| **Sensors** | Vibration (Piezo/SW-420), Current (ACS712)|
 | **Display** | 0.96" OLED I2C Display |
-| **Storage** | Micro SD Card Module |
 
 ### Circuit Diagram
 ![Circuit Diagram](docs/circuit_diagram_1.jpg)
